@@ -16,6 +16,132 @@ My work sits at the intersection of:
 
 ---
 
+## Featured Repositories
+
+### Revenue Operations
+
+- CRM Optimization Framework
+- Pipeline Analytics
+- Revenue Ops Blueprints
+
+### Lead Generation
+
+- Lead Generation Systems
+- Outbound Systems
+
+### AI & Automation
+
+- AI for Revenue Ops
+- Sales Automation Workflows
+
+### Strategy & Growth
+
+- GTM Strategy Frameworks
+- Growth Experiments
+
+### Resources
+
+- Playbooks and Templates
+
+---
+
+## Core Expertise
+
+- Revenue Operations
+- CRM Architecture
+- Pipeline Optimization
+- GTM Strategy
+- Lead Generation
+- Outbound Systems
+- Sales Automation
+- AI Workflows
+- Forecasting
+- Revenue Analytics
+
+---
+
+## Repository Highlights
+
+### CRM Optimization Framework
+
+A practical framework for building scalable, clean, and revenue-focused CRM systems.
+
+Includes:
+
+- CRM Audit Checklist
+- Lifecycle Stage Framework
+- CRM Field Architecture
+- CRM Automation Playbook
+- CRM Reporting Framework
+
+### Pipeline Analytics
+
+Metrics, dashboards, forecasting models, and pipeline health frameworks for revenue teams.
+
+Includes:
+
+- Forecasting Framework
+- Pipeline Health Score
+- Sales Velocity Framework
+- Dashboard Design Framework
+- Forecast Accuracy Model
+
+### AI for Revenue Ops
+
+Practical AI workflows for sales, CRM automation, pipeline management, and revenue operations.
+
+Includes:
+
+- AI Lead Scoring
+- CRM Cleanup Automation
+- Call Analysis Framework
+- Deal Risk Scoring
+- Revenue Forecasting AI
+
+### Outbound Systems
+
+Outbound playbooks, prospecting workflows, and messaging frameworks for B2B growth.
+
+Includes:
+
+- ICP Research Framework
+- Lead Scoring Model
+- Prospecting System
+- Messaging Framework
+- Qualification Framework
+
+### Playbooks & Templates
+
+Ready-to-use templates, worksheets, checklists, and operating frameworks.
+
+Includes:
+
+- CRM Audit Template
+- Pipeline Audit Template
+- ICP Worksheet
+- Buyer Persona Template
+- Qualification Scorecard
+- Discovery Checklist
+- Forecast Review Template
+- CRM Cleanup Checklist
+- Meeting Notes Template
+
+---
+
+## Current Build Focus
+
+- AI for Revenue Operations
+- CRM Architecture
+- Pipeline Analytics
+- Revenue Forecasting
+- GTM Execution Models
+- Sales Process Automation
+- Outbound Infrastructure
+
+---
+
+### Building better revenue systems one process at a time.
+
 ## 🚀 What I Do
 
 ✔ Build scalable outbound systems
